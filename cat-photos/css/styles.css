@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    margin: 40px 0;
+    font-family: didot, serif;
+    font-size: 16px;
+    background-color: #DED3C4;
+    color: #555879;
+}
+.wrapper {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    background-color: #F4EBD3;
+    border-radius: 3px;
+}
+h1, h2, p {
+    margin: 0 0 1rem 0; /* Adds consistent bottom margin only */
+}
+a {
+    color: #98A1BC;
+}
+#cat1{
+    margin-bottom: 1rem;
+}
